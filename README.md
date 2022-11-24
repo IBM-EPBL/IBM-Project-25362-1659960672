@@ -20,4 +20,5 @@ The goal is to accurately predict the Length of Stay for each patient on case by
 
 Technical Architecture:
 
-image
+![image](https://user-images.githubusercontent.com/112681829/203806620-0a890521-973a-47a9-91fa-0942d2638667.png)
+
