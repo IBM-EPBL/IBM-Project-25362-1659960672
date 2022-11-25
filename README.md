@@ -22,3 +22,6 @@ Technical Architecture:
 
 ![image](https://user-images.githubusercontent.com/112681829/203806620-0a890521-973a-47a9-91fa-0942d2638667.png)
 
+Web Application link:
+https://analyticsforhospital.netlify.app/index.html
+
