@@ -24,6 +24,7 @@ Technical Architecture:
 
 Web Application link:
 https://analyticsforhospital.netlify.app/index.html
+
 Project Description Video: 
 https://youtu.be/FpVJr_165-Y
 
